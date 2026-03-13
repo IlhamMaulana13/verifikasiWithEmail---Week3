@@ -9,3 +9,7 @@ Institut Teknologi & Bisnis Bina Sarana Global
 ## 1. Membuat Project Baru
 
 ![NewProject](assets/images/NewProject.png)
+
+## 2. SetUp Env Di POSTMAN
+
+![NewProject](assets/images/SetUp.png)
