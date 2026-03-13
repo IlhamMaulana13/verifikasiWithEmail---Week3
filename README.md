@@ -13,3 +13,13 @@ Institut Teknologi & Bisnis Bina Sarana Global
 ## 2. SetUp Env Di POSTMAN
 
 ![NewProject](assets/images/SetUp.png)
+
+## 3. REGISTER
+
+![NewProject](assets/images/register.png)
+
+### Contoh Berhasil
+![NewProject](assets/images/contohbenar.png)
+
+### Contoh ERROR
+![NewProject](assets/images/contoherroe.png)
