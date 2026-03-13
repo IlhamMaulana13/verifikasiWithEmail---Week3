@@ -28,7 +28,7 @@ Institut Teknologi & Bisnis Bina Sarana Global
 ![NewProject](assets/images/testscript.png)
 
 
-## 3. Verifikasi Email
+## 4. Verifikasi Email
 
 ![NewProject](assets/images/kirimverif.png)
 
@@ -37,3 +37,14 @@ Institut Teknologi & Bisnis Bina Sarana Global
 
 ### Berhasil Verifikasi
 ![NewProject](assets/images/bukti.png)
+
+
+## 5. Cek Status Verifikasi Email
+
+![NewProject](assets/images/statuscek.png)
+
+### Sudah Di Verifikasi
+![NewProject](assets/images/sudah.png)
+
+### Belum Di Verifikasi
+![NewProject](assets/images/belum.png)
