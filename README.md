@@ -23,3 +23,17 @@ Institut Teknologi & Bisnis Bina Sarana Global
 
 ### Contoh ERROR
 ![NewProject](assets/images/contoherroe.png)
+
+### Test Script
+![NewProject](assets/images/testscript.png)
+
+
+## 3. Verifikasi Email
+
+![NewProject](assets/images/kirimverif.png)
+
+### Notifikasi Email
+![NewProject](assets/images/kirimverif.png)
+
+### Berhasil Verifikasi
+![NewProject](assets/images/bukti.png)
